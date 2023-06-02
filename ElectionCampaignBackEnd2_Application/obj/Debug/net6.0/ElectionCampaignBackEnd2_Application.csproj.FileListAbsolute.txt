@@ -1,0 +1,17 @@
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\bin\Debug\net6.0\ElectionCampaignBackEnd2_Application.deps.json
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\bin\Debug\net6.0\ElectionCampaignBackEnd2_Application.runtimeconfig.json
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\bin\Debug\net6.0\ElectionCampaignBackEnd2_Application.dll
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\bin\Debug\net6.0\ElectionCampaignBackEnd2_Application.pdb
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\obj\Debug\net6.0\ElectionCampaignBackEnd2_Application.csproj.AssemblyReference.cache
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\obj\Debug\net6.0\ElectionCampaignBackEnd2_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\obj\Debug\net6.0\ElectionCampaignBackEnd2_Application.AssemblyInfoInputs.cache
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\obj\Debug\net6.0\ElectionCampaignBackEnd2_Application.AssemblyInfo.cs
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\obj\Debug\net6.0\ElectionCampaignBackEnd2_Application.csproj.CoreCompileInputs.cache
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\obj\Debug\net6.0\ElectionCampaignBackEnd2_Application.dll
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\obj\Debug\net6.0\refint\ElectionCampaignBackEnd2_Application.dll
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\obj\Debug\net6.0\ElectionCampaignBackEnd2_Application.pdb
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\obj\Debug\net6.0\ElectionCampaignBackEnd2_Application.genruntimeconfig.cache
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\obj\Debug\net6.0\ref\ElectionCampaignBackEnd2_Application.dll
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\bin\Debug\net6.0\ElectionCampaignBackEnd2_Domain.dll
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\bin\Debug\net6.0\ElectionCampaignBackEnd2_Domain.pdb
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Application\obj\Debug\net6.0\ElectionCampaignBackEnd2_Application.csproj.CopyComplete

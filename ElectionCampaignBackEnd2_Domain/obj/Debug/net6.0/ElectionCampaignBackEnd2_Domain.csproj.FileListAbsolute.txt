@@ -1,0 +1,14 @@
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\bin\Debug\net6.0\ElectionCampaignBackEnd2_Domain.deps.json
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\bin\Debug\net6.0\ElectionCampaignBackEnd2_Domain.runtimeconfig.json
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\bin\Debug\net6.0\ElectionCampaignBackEnd2_Domain.dll
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\bin\Debug\net6.0\ElectionCampaignBackEnd2_Domain.pdb
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\obj\Debug\net6.0\ElectionCampaignBackEnd2_Domain.csproj.AssemblyReference.cache
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\obj\Debug\net6.0\ElectionCampaignBackEnd2_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\obj\Debug\net6.0\ElectionCampaignBackEnd2_Domain.AssemblyInfoInputs.cache
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\obj\Debug\net6.0\ElectionCampaignBackEnd2_Domain.AssemblyInfo.cs
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\obj\Debug\net6.0\ElectionCampaignBackEnd2_Domain.csproj.CoreCompileInputs.cache
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\obj\Debug\net6.0\ElectionCampaignBackEnd2_Domain.dll
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\obj\Debug\net6.0\refint\ElectionCampaignBackEnd2_Domain.dll
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\obj\Debug\net6.0\ElectionCampaignBackEnd2_Domain.pdb
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\obj\Debug\net6.0\ElectionCampaignBackEnd2_Domain.genruntimeconfig.cache
+D:\Svn Projects\DotNetArchitecture6\ElectionCampaignBackEnd2_Domain\obj\Debug\net6.0\ref\ElectionCampaignBackEnd2_Domain.dll
